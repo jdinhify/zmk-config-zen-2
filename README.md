@@ -2,6 +2,12 @@
 
 ![Corne-ish Zen Logo](img/Zen_R3_sticker.png)
 
+## keymap
+
+![keymap](img/keymap.svg)
+
+[keymap-drawer](https://caksoylar.github.io/keymap-drawer?keymap_yaml=H4sIAAAAAAAC_32Qa0_CUAyGv_MrjvEyL0MFFHXGxDEGQwfMXUBEnChLNNxkjChB_rttz9iAqEv6tOdtT3u6Xns6nAQSm436XbfrTV-Gbb8jsdehP_Bcfxi0A68jMkz2wkpdblQd2x1_9N4DN_OVdTPzBOQ8fywlGBt9en4wxSjJbDlH_o5YJ6pEk-eJDaJDLBGrRIOYswyFghmMVi1FZG8S0xqGas4jWSZRV2xTj0WLi7Jux1qea0WnFGsFrllaqRBWFolaVHFDFeZSBaq3XF3ppXNtZeYl1-LHCfBRADML_Bc8EO-JfNsaX55YIZb5ZZHfPSQeRVNM1f71lcKzsLbzeNonbxmyoq5FgwnP4VYQwFFiTQE6kJ0hzhEXCyk0x-C-VtWjOLITxCkiuyTragFenK_WKyIzS0UNDmXHVtfuphBpRAZxvDoXnsiiuXlsRNuv9YisBfWw_WKlDcQ1YhOwBX4b_BP4HfC7ItuDcF_4q1toScQVooloAR7jdM5mim6STxHTxAzPuiI7gGi22GSOt77_ndhK_ADeIyyVsQMAAA%3D%3D)
+
 **NOTE: This code is currently merged into ZMK Main.**
 
 This repo is the official configuration of the Corne-ish Zen V2 low profile wireless mechanical keyboard. Use it to develop your own keymap and easily build your own ZMK firmware to run on your Corne-ish Zen. These steps will get you using your keymap on your keyboard in the fastest time possible. It uses the GitHub Actions feature to build your firmware online, rather than setting up a complex tool chain on your local computer.

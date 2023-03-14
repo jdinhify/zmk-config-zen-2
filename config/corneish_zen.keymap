@@ -25,7 +25,7 @@
                 compatible = "zmk,keymap";
 
                 default_layer {
-                        label = "QWERTY";
+                        label = "qwerty";
 // -----------------------------------------------------------------------------------------
 // | TAB         | Q       | W      | E      | R        | T |   | Y | U        | I      | O      | P       | BKSP |
 // | ESC/HYPER   | A/LCTRL | S/LALT | D/LGUI | F/LSHIFT | G |   | H | J/RSHIFT | K/RGUI | L/RALT | ;/RCTRL |  '   |
@@ -39,7 +39,7 @@
                         >;
                 };
                 lower_layer {
-                        label = "NUMBER";
+                        label = "num";
 // -----------------------------------------------------------------------------------------
 // |      |     |  7  |  8  |  9  |     |   |     |     |  UP  |     | VOL+ |        |
 // |      |     |  4  |  5  |  6  |     |   |     | LFT |  DWN | RGT | MUTE |        |
@@ -53,11 +53,11 @@
                         >;
                 };
                 raise_layer {
-                        label = "SYMBOL";
+                        label = "sym";
 // -----------------------------------------------------------------------------------------
 // |  |  !      |  @    |  #    |  $    |  %  |   |  ^  |  &  |  (  |  )  |  *  |  |
 // |  |         |       |       |       |     |   |  -  |  =  |  [  |  ]  |  \  |  |
-// |  |  BTCLR  |  BT0  |  BT1  |  BT2  |     |   |  _  |  +  |  {  |  }  | "|" |  |
+// |  |  BTCLR  |  BT1  |  BT2  |  BT3  |     |   |  _  |  +  |  {  |  }  | "|" |  |
 //                    |     |     |     |   |     |     |     |
                         bindings = <
    &trans  &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS &kp LPAR &kp RPAR &kp KP_MULTIPLY &trans
